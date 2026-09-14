@@ -1,0 +1,26 @@
+{
+  "name": "Daricha — دریچه",
+  "short_name": "Daricha",
+  "description": "اشتراک صفحه و چت فایل/صوت روی WebRTC، اتصال با QR یا آیدی دائمی",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#7c3aed",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
